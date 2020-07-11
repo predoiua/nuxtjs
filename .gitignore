@@ -1,0 +1,23 @@
+# dependencies
+citat/node_modules
+citat/package-lock.json
+
+# logs
+citat/npm-debug.log
+citat/yarn-error.log
+
+# other
+citat/.nuxt
+citat/dist
+citat/.vscode
+citat/.idea
+citat/newrelic_agent.log
+citat/.DS_STORE
+citat/.eslintrc
+
+# docs
+/docs
+
+# @nuxtjs/pwa
+citat/sw.*
+
